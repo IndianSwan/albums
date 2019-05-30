@@ -1,0 +1,8 @@
+{
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "markdown.preview.breaks": true,
+    "workbench.colorTheme": "Default Dark+",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "workbench.iconTheme": "material-icon-theme"
+}
