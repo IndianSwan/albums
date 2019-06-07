@@ -1,3 +1,4 @@
+    
 // Import liabraries to create components
 
 import React from 'react';
@@ -28,7 +29,7 @@ const styles = {
       elevation: 2,
       position: 'relative'
       
-   },
+   }, 
 
    textStyle:
    {
